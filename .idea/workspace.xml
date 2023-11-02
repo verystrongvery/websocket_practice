@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a08e9a2d-e75a-4f4f-b4ff-35fdf8a0c99e" name="Changes" comment="chore: README.md 수정">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websocket_practice_backend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websocket_practice_backend/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websocket_practice_backend/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websocket_practice_backend/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websocket_practice_backend/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websocket_practice_backend/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websocket_practice_backend/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websocket_practice_backend/src/main/java/com/example/websocket_practice_backend/WebsocketPracticeBackendApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websocket_practice_backend/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/websocket_practice_backend/src/test/java/com/example/websocket_practice_backend/WebsocketPracticeBackendApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2WkHL907DFq4r2lKYp76TZPv26t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/topme/Desktop/code/websocket_practice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\topme\\Desktop\\code\\spring_security_practice\\spring_security_practice_frontend\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/spring_security_practice/domain/refreshtoken" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/spring_security_practice/domain/users" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/spring_security_practice/security" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.spring_security_practice.common.utils" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringSecurityPracticeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="spring_security_practice.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.spring_security_practice.SpringSecurityPracticeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a08e9a2d-e75a-4f4f-b4ff-35fdf8a0c99e" name="Changes" comment="" />
+      <created>1697269601392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697269601392</updated>
+      <workItem from="1697269602499" duration="464000" />
+      <workItem from="1697270088038" duration="5034000" />
+      <workItem from="1697282383120" duration="4049000" />
+      <workItem from="1697286636998" duration="2602000" />
+      <workItem from="1698573561811" duration="2055000" />
+      <workItem from="1698576119678" duration="2985000" />
+      <workItem from="1698581517043" duration="24274000" />
+      <workItem from="1698894653373" duration="457000" />
+      <workItem from="1698895138960" duration="298000" />
+    </task>
+    <task id="LOCAL-00001" summary="chore: 스프링부트 프로젝트 초기화">
+      <option name="closed" value="true" />
+      <created>1697270022561</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697270022561</updated>
+    </task>
+    <task id="LOCAL-00002" summary="chore: README.md 수정">
+      <option name="closed" value="true" />
+      <created>1698886677477</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698886677477</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chore: 스프링부트 프로젝트 초기화" />
+    <MESSAGE value="chore: README.md 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: README.md 수정" />
+  </component>
+</project>
