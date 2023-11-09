@@ -21,20 +21,20 @@
 # 실시간 채팅 과정
 ### 1. 채팅방 입장하기 버튼 클릭
 ![](https://velog.velcdn.com/images/topmedia/post/da6f4d32-8fde-4199-abe3-372b7c2f84bc/image.png)
-- Vue Pinia를 활용하여 유저 정보 상태 관리
-- 채팅방 주소로 이동
+1. Vue Pinia를 활용하여 유저 정보 상태 관리
+2. 채팅방 주소로 이동
 ### 2. 채팅방 입장
 ![](https://velog.velcdn.com/images/topmedia/post/fc240285-1d7d-4005-ba3a-49219a2ae8dd/image.png)
-- 웹소켓 통신 연결
-- 채팅방(토픽) 구독 
-- 사람들(구독자들)에게 입장 메시지를 보냄
+1. 웹소켓 통신 연결
+2. 채팅방(토픽) 구독 
+3. 사람들(구독자들)에게 입장 메시지를 보냄
 ### 3. 메시지 전송
 ![](https://velog.velcdn.com/images/topmedia/post/cc5b6aea-a9e5-4ece-ab12-0d5df5d01cf4/image.png)
-- 채팅방에 입장 메시지를 보냄
-- 같은 채팅방 사람들은 메시지를 받아 화면에 출력
+1. 채팅방에 입장 메시지를 보냄
+2. 같은 채팅방 사람들은 메시지를 받아 화면에 출력
 ### 4. 채팅방 퇴장
 ![](https://velog.velcdn.com/images/topmedia/post/d16be41f-a22e-4c2d-9485-625ec745a292/image.png)
-- 사람들에게 퇴장 메시지를 보냄
-- 채팅방(토픽) 구독 취소
-- 웹소켓 통신 연결 종료
-- Vue Pinia에서 상태 관리 하던 유저 정보 삭제
+1. 사람들에게 퇴장 메시지를 보냄
+2. 채팅방(토픽) 구독 취소
+3. 웹소켓 통신 연결 종료
+4. Vue Pinia에서 상태 관리 하던 유저 정보 삭제
