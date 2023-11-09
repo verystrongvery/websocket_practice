@@ -108,6 +108,7 @@ const exitChatRoom = () => {
   });
   stompClient.value.unsubscribe('/topic/' + '1');
   stompClient.value.deactivate();
+  user.logout();
 };
 
 const handleSubscribeMessage = (message) => {
