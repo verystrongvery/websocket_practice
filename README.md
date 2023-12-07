@@ -1,6 +1,6 @@
 # 프로젝트 요약
-1. STOMP, Websocket을 활용하여 실시간 채팅 구현
-2. Vue와 Vue 라이브러리(vuetify, pinia 등)를 활용하여 화면단 구현
+1. 실시간 채팅 기능 구현(STOMP 활용)
+2. 실시간 채팅 화면단 구현(vuetify, pinia 등 Vue 라이브러리 활용)
 
 # 기술스택
 - Spring Boot 2
